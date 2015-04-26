@@ -74,8 +74,8 @@ return array(
 	|
 	*/
 
-	'url' => 'http://admin-app.clasificados.dev',
-    'domain' => 'clasificados.dev',
+	'url' => 'http://pics-wagagt.c9.io/',
+    'domain' => 'pics-wagagt.c9.io',
 
 	/*
 	|--------------------------------------------------------------------------
