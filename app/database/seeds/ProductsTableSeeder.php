@@ -5,7 +5,7 @@ class ProductsTableSeeder extends Seeder {
     
     public function run()
 	{
-        $limit = 1000;
+        $limit = 200;
         
         $this->command->info("Seeding {$limit} products with images. It's a good time to go for a coffee (seriously).");
         
